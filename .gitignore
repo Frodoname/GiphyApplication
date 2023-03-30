@@ -1,0 +1,27 @@
+#macOS
+.DS_Store
+
+#Xcode
+*.xcuserdata
+build
+DerivedData
+*.xcuserstate
+*.xcbkptlist
+*.pbxuser
+
+#Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+
+#xcodegen
+#*.xcodeproj
+#.xcworkspace
+
+# SPM
+.swiftpm
+
+# SwiftGen
+#Generated

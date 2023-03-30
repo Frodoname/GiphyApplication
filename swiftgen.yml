@@ -1,0 +1,18 @@
+ strings:
+   inputs:
+     - GiphyApp/Resource/Localizable.strings
+   outputs:
+     - templateName: structured-swift5
+       output: GiphyApp/Resource/Strings+Generated.swift
+       params:
+        enumName: Text
+
+ xcassets:
+   inputs:
+     - GiphyApp/Resource/Assets.xcassets
+   outputs:
+     - templateName: swift5
+       output: GiphyApp/Resource/XCAssets+Generated.swift
+       params:
+         forceProvidesNamespaces: true
+         enumName: Media
