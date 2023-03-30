@@ -10,6 +10,7 @@ This is a sample iOS UIKit project using:
 - [x] Pagination
 - [x] Network layer with Combine
 - [x] Dark Mode
+- [x] KingFisher for Images and Cache
 
 
 
