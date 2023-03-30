@@ -3,6 +3,7 @@
 This is a sample iOS UIKit project using:
 
 - [x] Combine
+- [x] UIKit
 - [x] MVVM
 - [x] Diffable Data Sources
 - [x] Compositional Layout
