@@ -1,6 +1,6 @@
 # Giphy Application iOS App
 
-This is a sample iOS UIKit project using:
+Home assignment for MonkeyTech, iOS UIKit project using:
 
 - [x] Combine
 - [x] UIKit
